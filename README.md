@@ -1,0 +1,1 @@
+# ai-training\n\n研修演習用 GitHub プロジェクト\n\n## 説明\nこのフォルダは Windows 版の演習用プロジェクトです。Obsidian からこのフォルダを Vault として開き、Markdown を参照してください。\n\n## 使い方\n1. Obsidian でこのフォルダを Vault として開く\n2. claude で初期セットアップを確認・実行する\n

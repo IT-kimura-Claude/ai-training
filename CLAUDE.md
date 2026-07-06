@@ -1,0 +1,1 @@
+# AI Training Project\n\nこのプロジェクトは Obsidian と GitHub で管理する研修用演習フォルダです。\n\n## 目的\n- Obsidian から Markdown を参照できる GitHub プロジェクトを用意する\n- GitHub リモートと連携し、初期コミットを行う\n\n## フォルダ構成\n- CLAUDE.md: プロジェクト概要\n- README.md: プロジェクト紹介\n- specs/: 仕様書置き場\n
